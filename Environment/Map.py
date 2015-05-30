@@ -10,7 +10,7 @@ class Map:
         self.links = []
         self.agents = []
         
-        self.sysclk = 1
+        self.systemClock = 1
         
         print('Map created')
         

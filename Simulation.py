@@ -2,7 +2,7 @@ from Environment.Map import *
 
 class Simulation:
     
-    def __init__(self, mapSize, playerCount, maxLength):
+    def __init__(self, mapSize, agentCount, maxClock):
         self.mapSize = mapSize
         self.playerCount = playerCount
         self.maxLength = maxLength
