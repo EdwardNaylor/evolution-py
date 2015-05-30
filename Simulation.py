@@ -15,7 +15,7 @@ class Simulation:
         self.clockCount = 0
     
     def run(self):
-        print('Simulation started')
+        print('Simulation begun')
         
         while (clockCount < self.maxLength):
             
